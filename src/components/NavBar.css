@@ -1,0 +1,13 @@
+Nav {
+    display: flex;
+    justify-content: end;
+    background-color: rgb(243, 243, 243);
+    height: 100px;
+    width: 100%;
+}
+
+div.cart-shop {
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+}
